@@ -1,0 +1,31 @@
+.presente {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.tampa {
+  background-color: green;
+  width: 100px;
+  height: 25px;
+}
+
+.corpo {
+  background-color: rgb(0, 107, 0);
+  width: 90px;
+  height: 60px;
+}
+
+.laco1 {
+  background-color: rgb(155, 4, 4);
+  width: 15px;
+  height: 85px;
+  position: absolute;
+}
+.laco2 {
+  background-color: rgb(155, 4, 4);
+  width: 90px;
+  height: 15px;
+  position: absolute;
+}
